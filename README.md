@@ -2,8 +2,9 @@
 - 👀 I’m interested in 
 -       Web development and Python
 - 🌱 I’m currently learning   
-      1- Full Stack Development
--     2- Machine Learning
+      
+-     1- Machine Learning
+-     2- Full Stack Development
 -     3- DataStructure Algorithms
 - 💞️ I’m looking to collaborate on 
 -      * React JS Projects
