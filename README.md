@@ -1,12 +1,13 @@
  👋 Hi, I’m @Developer-karan     
- 👀 I’m interested in      
+ 👀 I’m interested in          
       - Web development and Python
- 🌱 I’m currently learning   
+ 🌱 I’m currently learning          
      
      1- Machine Learning
      2- Full Stack Development
      3- DataStructure Algorithms
- 💞️ I’m looking to collaborate on    
+ 💞️ I’m looking to collaborate on     
+ 
       1 React JS Projects
       2- Three Js Projects
       3- Web3.0    
