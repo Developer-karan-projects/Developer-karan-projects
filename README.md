@@ -1,8 +1,7 @@
  👋 Hi, I’m @Developer-karan     
  👀 I’m interested in     
  
-      - Web development 
-      - Python
+      - Web development && Python
  🌱 I’m currently learning          
      
      1- Machine Learning
