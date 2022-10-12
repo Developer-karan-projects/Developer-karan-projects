@@ -18,7 +18,9 @@
    Linkden  - [Link Avl](https://www.linkedin.com/in/karan-arora-9abb3a240/)     
    Projects -  [Link Avl](https://developer-karan-projects.github.io/myTimeline/)   
    PGen - [Link Avl](https://developer-karan-projects.github.io/PasswordManeger/)   
-  Whatsapp - 8447736113        
+  Whatsapp - 8447736113      
+  share                     <a href="whatsapp://send?text=This is WhatsApp sharing example using link"       data-action="share/whatsapp/share"  
+                    target="_blank"> Share to WhatsApp </a>
      
 
 <!---
